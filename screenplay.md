@@ -2,6 +2,7 @@
 
 1. Apresentação do palestrante
  - Perfil, techs, visão geral
+ - Venho desenvolvendo projetos, mas senti a necessidade de compartilhar/produzir conteúdo de maneira mais efetiva
 2. Introdução ao problema
 3. Conceitos importantes:
  - static site: 
@@ -58,3 +59,4 @@
  - overreacted.io
  - tania.com
 18. Fim! Perguntas?
+
