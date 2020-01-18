@@ -9,7 +9,7 @@
 2. Gerar um novo site:
 
 `gatsby new my-site`
-ou 
+ou
 `npx gatsby new my-site`
 
 3. Entrar na pasta
@@ -36,16 +36,16 @@ ou
 
 `npx gatsby serve`
 
-## Tarefas
+## Guia
 
-0. Adicionar um novo post
+0. Estrutura do projeto
+
+1. Adicionar um novo post
 
 Novo diretório do post na pasta `content/blog` com o index.md e os recursos
 
-1. Adicionar um menu de navegação
+2. Alterar tema (estilo e tipografia)
 
-2. Adicionar uma nova página
+3. Adicionar uma nova página
 
-3. Adicionar post tags
-
-4. Alterar tema (estilo e tipografia)
+4. Adicionar um menu de navegação
